@@ -1,0 +1,38 @@
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.exe.config
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.exe
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.pdb
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\ExchangeRate\ExchangeRate\bin\Debug\MetroFramework.Design.dll
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\ExchangeRate\ExchangeRate\bin\Debug\MetroFramework.dll
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\ExchangeRate\ExchangeRate\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.csprojResolveAssemblyReference.cache
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.Properties.Resources.resources
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.csproj.GenerateResource.Cache
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.exe
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.pdb
+C:\Users\josan\Desktop\Programming\Visual Studio\C#\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.Form1.resources
+C:\Users\user\Desktop\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.Form1.resources
+C:\Users\user\Desktop\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.Properties.Resources.resources
+C:\Users\user\Desktop\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.exe
+C:\Users\user\Desktop\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.pdb
+C:\Users\user\Desktop\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.exe.config
+C:\Users\user\Desktop\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.exe
+C:\Users\user\Desktop\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.pdb
+C:\Users\user\Desktop\ExchangeRate\ExchangeRate\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\ExchangeRate\ExchangeRate\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\ExchangeRate\ExchangeRate\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.exe.config
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.exe
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\bin\Debug\ExchangeRate.pdb
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.Form1.resources
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.Properties.Resources.resources
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.exe
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\obj\Debug\ExchangeRate.pdb

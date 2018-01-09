@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\bin\Release\ExchangeRate.exe.config
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\bin\Release\ExchangeRate.exe
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\bin\Release\ExchangeRate.pdb
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\bin\Release\MetroFramework.Design.dll
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\bin\Release\MetroFramework.dll
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\bin\Release\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\obj\Release\ExchangeRate.Form1.resources
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\obj\Release\ExchangeRate.Properties.Resources.resources
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\obj\Release\ExchangeRate.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\obj\Release\ExchangeRate.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\obj\Release\ExchangeRate.exe
+C:\Users\user\Desktop\C#\ExchangeRate\ExchangeRate\obj\Release\ExchangeRate.pdb
